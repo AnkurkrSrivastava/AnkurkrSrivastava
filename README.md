@@ -1,82 +1,115 @@
-<!-- Neon 3D GitHub README -->
+<!-- 🔥 ELITE NEON GITHUB README -->
 
 <h1 align="center" style="
-  font-size: 3.5em;
-  font-family: 'Trebuchet MS', sans-serif;
+  font-size: 3em;
   color: #39ff14;
-  text-shadow: 
-    2px 2px 0px #000, 
-    4px 4px 0px #ff00ff, 
-    6px 6px 8px #000000;
+  text-shadow: 2px 2px #000, 4px 4px #ff00ff;
 ">
-  <u>🚀 Ankur | B.Tech CSE 2029 | LPU</u>
+  🚀 Ankur | B.Tech CSE (2029) | LPU
 </h1>
 
-<p align="center" style="color:#00ffff; font-size: 1.3em; text-shadow: 1px 1px 6px #000;">
-  Passionate about <b>Software Development</b> & <b>Designing</b><br>
-  Building impactful solutions with creativity & code
+<p align="center">
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&vCenter=true&lines=Software+Developer;MERN+Stack+Learner;DSA+Enthusiast;Future+Google+Engineer" />
 </p>
 
 ---
 
-<h2 style="color:#ff00ff; text-shadow: 1px 1px 6px #000;">💻 Tech Stack</h2>
+<h2 style="color:#ff00ff;">🧠 About Me</h2>
 
-<p align="center">
-  <!-- Languages -->
-  <span style="background:#111; color:#39ff14; padding:8px 12px; margin:6px; border-radius:8px;">C</span>
-  <span style="background:#111; color:#39ff14; padding:8px 12px; margin:6px; border-radius:8px;">C++</span>
-  <span style="background:#111; color:#39ff14; padding:8px 12px; margin:6px; border-radius:8px;">Java</span>
-  <span style="background:#111; color:#39ff14; padding:8px 12px; margin:6px; border-radius:8px;">Python</span>
-  <span style="background:#111; color:#39ff14; padding:8px 12px; margin:6px; border-radius:8px;">JavaScript</span>
-</p>
-
-<p align="center">
-  <!-- Web Development -->
-  <span style="background:#111; color:#00ffff; padding:8px 12px; margin:6px; border-radius:8px;">HTML</span>
-  <span style="background:#111; color:#00ffff; padding:8px 12px; margin:6px; border-radius:8px;">CSS</span>
-  <span style="background:#111; color:#00ffff; padding:8px 12px; margin:6px; border-radius:8px;">React.js</span>
-  <span style="background:#111; color:#00ffff; padding:8px 12px; margin:6px; border-radius:8px;">Node.js</span>
-</p>
-
-<p align="center">
-  <!-- Databases -->
-  <span style="background:#111; color:#ff00ff; padding:8px 12px; margin:6px; border-radius:8px;">MySQL</span>
-  <span style="background:#111; color:#ff00ff; padding:8px 12px; margin:6px; border-radius:8px;">MongoDB</span>
-</p>
-
-<p align="center">
-  <!-- Design Tools -->
-  <span style="background:#111; color:#ff4500; padding:8px 12px; margin:6px; border-radius:8px;">Figma</span>
-  <span style="background:#111; color:#ff4500; padding:8px 12px; margin:6px; border-radius:8px;">Adobe XD</span>
-</p>
-
-<p align="center">
-  <!-- Version Control -->
-  <span style="background:#111; color:#00ff7f; padding:8px 12px; margin:6px; border-radius:8px;">Git</span>
-  <span style="background:#111; color:#00ff7f; padding:8px 12px; margin:6px; border-radius:8px;">GitHub</span>
-</p>
-
-<p align="center">
-  <!-- Virtualization / Cloud -->
-  <span style="background:#111; color:#ffa500; padding:8px 12px; margin:6px; border-radius:8px;">Docker</span>
-  <span style="background:#111; color:#ffa500; padding:8px 12px; margin:6px; border-radius:8px;">Kubernetes</span>
-  <span style="background:#111; color:#ffa500; padding:8px 12px; margin:6px; border-radius:8px;">AWS</span>
-  <span style="background:#111; color:#ffa500; padding:8px 12px; margin:6px; border-radius:8px;">Azure</span>
-  <span style="background:#111; color:#ffa500; padding:8px 12px; margin:6px; border-radius:8px;">VMware</span>
+<p style="color:white;">
+• 🎓 B.Tech CSE Student  
+• 💡 Building real-world projects  
+• ⚡ Learning DSA + MERN  
+• 🎯 Goal: Top Software Engineer  
 </p>
 
 ---
 
-<h2 style="color:#ff4500; text-shadow: 1px 1px 6px #000;">🌟 Career Goal</h2>
-<p style="color:#ffffff; font-size: 1.1em; text-shadow: 1px 1px 4px #000;">
-  To build secure, scalable, and innovative software systems while specializing in <b>development</b> and <b>design excellence</b>.
+<h2 style="color:#00ffff;">🛠️ Tech Stack</h2>
+
+<p align="center">
+<span style="background:#111; color:#39ff14; padding:8px; border-radius:8px;">C</span>
+<span style="background:#111; color:#39ff14; padding:8px; border-radius:8px;">C++</span>
+<span style="background:#111; color:#39ff14; padding:8px; border-radius:8px;">Java</span>
+<span style="background:#111; color:#39ff14; padding:8px; border-radius:8px;">Python</span>
+<span style="background:#111; color:#39ff14; padding:8px; border-radius:8px;">JavaScript</span>
+</p>
+
+<p align="center">
+<span style="background:#111; color:#00ffff; padding:8px; border-radius:8px;">HTML</span>
+<span style="background:#111; color:#00ffff; padding:8px; border-radius:8px;">CSS</span>
+<span style="background:#111; color:#00ffff; padding:8px; border-radius:8px;">React</span>
+<span style="background:#111; color:#00ffff; padding:8px; border-radius:8px;">Node.js</span>
 </p>
 
 ---
 
-<h2 style="color:#00ff7f; text-shadow: 1px 1px 6px #000;">📫 Connect</h2>
+<h2 style="color:#ff4500;">🚀 Projects</h2>
+
+<p style="color:white;">
+🔹 <b>PhishGreen</b> – Phishing detection system  
+🔹 <b>Aimbot Project</b> – CV-based targeting system  
+🔹 <b>Sustainable Shopping Assistant</b> – Eco-friendly suggestions  
+</p>
+
+---
+
+<h2 style="color:#00ff7f;">📊 GitHub Analytics</h2>
+
 <p align="center">
-  <a href="https://github.com/yourusername" style="color:#39ff14; text-decoration:none;">GitHub</a> |
-  <a href="https://linkedin.com/in/yourusername" style="color:#00ffff; text-decoration:none;">LinkedIn</a> |
-  <a href="mailto:your.email@example.com" style="color:#ff00ff; text-decoration:none;">Email</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" height="180"/>
+</p>
+
+---
+
+<h2 style="color:#ff00ff;">📈 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&area=true"/>
+</p>
+
+---
+
+<h2 style="color:#00ffff;">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<h2 style="color:#ffa500;">👀 Profile Views</h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=ff00ff&style=flat" />
+</p>
+
+---
+
+<h2 style="color:#00ffff;">🏆 Achievements</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+<h2 style="color:#00ff7f;">📫 Connect</h2>
+
+<p align="center">
+  <a href="https://github.com/yourusername">GitHub</a> |
+  <a href="https://linkedin.com/in/yourusername">LinkedIn</a> |
+  <a href="mailto:your.email@example.com">Email</a>
+</p>
+
+---
+
+<p align="center" style="color:#888;">
+⚡ Code. Build. Repeat.
 </p>
