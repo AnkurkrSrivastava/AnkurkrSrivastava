@@ -1,16 +1,38 @@
-## Hi there 👋
+<!-- Neon 3D GitHub README -->
 
-<!--
-**AnkurkrSrivastava/AnkurkrSrivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center" style="color:#39ff14; text-shadow: 2px 2px 8px #000000; font-size: 3em; font-family: 'Trebuchet MS', sans-serif;">
+  <u>🚀 Ankur | B.Tech CSE 2029 | LPU</u>
+</h1>
 
-Here are some ideas to get you started:
+<p align="center" style="color:#00ffff; font-size: 1.3em; text-shadow: 1px 1px 6px #000;">
+  Passionate about <b>Software Development</b> & <b>Designing</b><br>
+  Building impactful solutions with creativity & code
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<h2 style="color:#ff00ff; text-shadow: 1px 1px 6px #000;">💻 Tech Stacks</h2>
+
+<ul style="list-style-type: square; font-size: 1.1em; color:#ffffff; text-shadow: 1px 1px 4px #000;">
+  <li>Languages: C, C++, Java, Python, JavaScript</li>
+  <li>Web Development: HTML, CSS, React.js, Node.js</li>
+  <li>Databases: MySQL, MongoDB</li>
+  <li>Design Tools: Figma, Adobe XD</li>
+  <li>Version Control: Git, GitHub</li>
+</ul>
+
+---
+
+<h2 style="color:#ff4500; text-shadow: 1px 1px 6px #000;">🌟 Vision</h2>
+<p style="color:#ffffff; font-size: 1.1em; text-shadow: 1px 1px 4px #000;">
+  To innovate and craft software solutions that merge <b>functionality</b> with <b>design excellence</b>.
+</p>
+
+---
+
+<h2 style="color:#00ff7f; text-shadow: 1px 1px 6px #000;">📫 Connect</h2>
+<p>
+  <a href="https://github.com/yourusername" style="color:#39ff14; text-decoration:none;">GitHub</a> |
+  <a href="https://linkedin.com/in/yourusername" style="color:#00ffff; text-decoration:none;">LinkedIn</a> |
+  <a href="mailto:your.email@example.com" style="color:#ff00ff; text-decoration:none;">Email</a>
+</p>
