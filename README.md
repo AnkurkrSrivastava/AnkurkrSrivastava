@@ -1,8 +1,19 @@
 <!-- Neon 3D GitHub README -->
 
-<h1 align="center" style="color:#39ff14; text-shadow: 2px 2px 8px #000000; font-size: 3em; font-family: 'Trebuchet MS', sans-serif;">
+<!-- Neon 3D Heading -->
+
+<h1 align="center" style="
+  font-size: 3.5em;
+  font-family: 'Trebuchet MS', sans-serif;
+  color: #39ff14;
+  text-shadow: 
+    2px 2px 0px #000, 
+    4px 4px 0px #ff00ff, 
+    6px 6px 8px #000000;
+">
   <u>🚀 Ankur | B.Tech CSE 2029 | LPU</u>
 </h1>
+
 
 <p align="center" style="color:#00ffff; font-size: 1.3em; text-shadow: 1px 1px 6px #000;">
   Passionate about <b>Software Development</b> & <b>Designing</b><br>
